@@ -1,0 +1,98 @@
+tweet,groups
+great tutorial  how to use  tensorflow  s gradienttape function to create custom training loops to train  keras models   deeplearning  ai  machinelearning  datascience   ,5
+really useful tutorial  how to implement and train autoencoders using  keras   tensorflow  and  deeplearning    datascience  ai  ,5
+excellent tutorial by    how to implement label smoothing using keras  tensorflow  and deep learning  w  py code   datascience  machinelearning  ai  deeplearning ,5
+very useful tutorial  w  py code   3 ways to create a  keras model with  tensorflow 2 0  sequential  functional  and model subclassing    datascience  ai  deeplearning ,1
+very useful  keras vs  tf keras  what s the difference in  tensorflow 2 0   w  py code   deeplearning  datascience  ai  machinelearning,1
+useful   tensorflow 2 0    keras tutorial overview for deep learning researchers  w  py code in colab   datascience machinelearning  ai  deeplearning  colab  ,1
+great tutorial  build a handwritten text recognition system using tensorflow  w  py code   with extra tutorial     datascience  deeplearning  ai  machinelearning  nlp ,5
+nice explanation w  py code  implementing roi pooling in tensorflow   keras  datascience  ai  machinelearning  deeplearning ,1
+nice  smart gesture recognition in ios 11 with core ml and tensorflow  nice explanation w  py code   datascience deeplearning  ai   ,1
+colab  an easy way to learn and use  tensorflow and to share and edit code collaboratively  datasciece machinelearning  deeplearning  ai ,5
+nice tutorial  building variational auto encoders in tensorflow  w  py code    datascience  deeplearning  machinelearning ,1
+how to deploy deep learning models with aws lambda and tensorflow  deeplearning  datascience   ,5
+nice tutorial  learn how to classify images with tensorflow  w  py code   via  by   datascience  machinelearning  deeplearning ,5
+an easy guide to build new tensorflow datasets and estimator with keras model  w  py code  datascience  deeplearning  keras  ,1
+explore deep learning  a tensorflow python tutorial   tensorflow  deeplearning  python  datascience,6
+nice read  software shrink  apps  amp  wearables in an era of digital psychiatry   iot  datascience  bigdata,0
+accuracy in wrist worn  sensor based measurements of heart rate and energy expenditure   datascience  iot  bigdata ,0
+a must read   data science case study  classification in iot     datascience  bigdata  iot ,0
+deep learning microservices for the hybrid internet of things    iot  bigdata ,0
+2016 in review  iot  machine learning  ai  amp  automation    deeplearning  iot  ai ,0
+internet of things at nanoscale  via      iot  ai  bigdata ,0
+healthcare is coming home with sensors and algorithms    iot  bigdata  healthcare  smarthome  smarthealth,3
+great read  deep learning for  iot future cities   datascience  bigdata  ai  machinelearning ,6
+apply deep learning to building automation iot sensors    datascience  ai ,5
+explore your iot data with thingspeak and matlab   datascience  bigdata  iot,0
+how the internet of things is changing medicine  via   healthcare  iot  bigdata,0
+accelerometer  amp  gyro tutorial   datascience  iot,0
+the implications of large iot ecosystems  via   iot  smartcities  ai,0
+future of the internet is internet of things   iot  bigdata  smarthome  smartcity  smartnews ,0
+cognitive analytics and the next internet of things   iot  datascience  bigdata,0
+great resource  mini crash course on deep learning for computer vision problems using python  step by step tutorials w  py code   deeplearning  datascience  computervision  machinelearning  ai ,7
+pytorch3d  provides reusable components for 3d computer vision research with  pytorch    datascience  machinelearning  deeplearning  ai ,6
+great guides to computer vision  with installation instructions  step by step tutorials  examples  w  py code     deeplearning  machinelearning  computervisio ,7
+computer vision news   free monthly magazine  ai  datascientist  datascience  machinelearning  deeplearning  ,6
+nice tutorial  computer vision  implementing mask r cnn for image segmentation  w  python code   datascience  machinelearning  ai deeplearning  ,7
+useful  the best image annotation platforms for computer vision    an honest review of each   deeplearning  datascience  ai  imageprocessing  imagelabeling  ,6
+exploring unsupervised deep learning algorithms for computer vision  datascience  deeplearning  machinelearning  ,6
+interesting papers  on computer vision for microscopy image analysis   datascience  deeplearning  machinelearning ,6
+great  over 300 matlab examples of image processing and computer vision problems   datascience  machinelearning  ai ,6
+computer vision models w  tensorflow object detection api    datascience  bigdata  deeplearning  ai ,6
+mobilenets open source  family of mobile first computer vision models for tensorflow   datascience  deeplearning  ai ,6
+geovisual search  using computer vision to explore the earth w keras for deep learning   datascience  machinelearning,6
+creating computer vision  amp  machine learning algorithms to analyze works of art   datascience ,6
+nest gives security cameras brains using google s computer vision software    deeplearning  machinelearning,6
+great resource  mini crash course on deep learning for computer vision problems using python  step by step tutorials w  py code    deeplearning  datascience  computervision  machinelearning  ai ,7
+pytorch3d  provides reusable components for 3d computer vision research with  pytorch    datascience  machinelearning  deeplearning  ai ,6
+nice explanation  amp  illustration of 5 clustering algorithms  datascience  datamining  ,2
+great w  python code  optimizing k means clustering for time series data  via   datascience  datamining ,2
+ clustering  how to sort a distance matrix  example with py code    datascience  datamining  python ,2
+hierarchical clustering nearest neighbors algorithm in r  via   datascience  machinelearning  datamining,6
+playing with dimensions  clustering  pca  t sne  deep learning      w  code   datascience  machinelearning  bigdata,2
+great  tutorials  w  python code  on clustering unlabeled data  sklearn cluster   datascience ,2
+spark lda complete example of clustering algorithm for topic discovery   via   datascience  machinelearning,6
+ckmeans w  code   using clustering to create a new d3 js color scale     datascience ,2
+principal component analysis cluster plots with plotly  via   datascience  featureextraction  statistics,2
+interesting  music genres re sorted into 3 clusters linked to personality  datascience  socialmedia  datamining ,2
+spark an open source cluster computing framework for data analytics   ,2
+useful article on how to choose number of clusters using unsupervised  machinelearning  datascience  datamining ,6
+great read  using topological data analysis to understand the behavior of convolutional neural networks   datascience  deeplearning  machinelearning ,5
+great  tutorial on how to train a convolutional neural network using keras and deep learning to recognize and classify images  w  py code   datascience  machinelearning  ai  deeplearning  ,5
+great  a beginner s guide to understanding convolutional neural networks  part 2 w  papers    via   datascience  deeplearning  machinelearning  ai ,5
+fundamentals of deep learning   starting with artificial neural network   datascience  machinelearning  deeplearning ,6
+nice   capsule neural networks are here to finally recognize spatial relationships  part 1  cnns and their problems   datascience  machinelearning  deeplearning  ,5
+step by step guide to implement a simple neural network using tensorflow  w  py code    datascience  deeplearning  machinelearning ,7
+introduction to neural networks part 2   a worked example   datascience  machinelearning  deeplearning  neuralnetworks,5
+here is the py code  neural network dynamics for model based deep reinforcement learning with model free fine tuning   datascience  deeplearning  ai ,5
+interesting  model based reinforcement learning with neural network dynamics  w  py code    datascience  deeplearning  machinelearning  ai ,5
+useful  neural network architectures  datascience  deeplearning  machinelearning  ai   ,5
+great read  feature visualization  how neural networks build up their understanding of images   datascience  computationalintelligence  optimisation  neuralnetwork ,5
+visualizing layer representations in neural networks  w  examples  amp  py code    datascience  datamining  deeplearning ,5
+engineering uncertainty estimation in neural networks for time series prediction    datascience  deeplearning ,5
+great  vectorflow   a lightweight neural network library for sparse data  datascience  deeplearning  machinelearning,5
+nice tutorial on training a recurrent neural network on language modeling   deeplearning  datascience   tensorflow ,5
+great  a matlab implementation of the tensorflow neural network playground     datascience  deeplearning  tensorflow ,5
+understanding recurrent neural networks for time series data   datascience  neuralnetworks  timeseries ,5
+google s deepmind ai to use 1 million nhs eye scans to spot diseases earlier   ai  healthcare,3
+mike lynch  google deepmind s nhs partnership could have been done  more carefully      healthcare  bigdata,3
+nhs will continue trialling google s kidney monitoring app despite regulators moving in   medicaldevice  healthcare,3
+google s nhs deal does not have regulatory approval   ai  machinelearning  nhs  privacy  bigdata,3
+revealed  google ai has access to huge haul of nhs patient data   ai  machinelearning  bigdata  healthcare,3
+cancer detecting dogs approved for nhs trial ,3
+interesting  google given access to uk nhs patient records for research   healthcare  predictivemodelling,3
+patients at one of the uk s biggest children s hospitals are about to be comforted by ai    ai  healthcare,3
+the hospital of the future  via    healthcare  iot  dataanalytics  bigdata  smarthospitals,0
+big data analytics show more sepsis deaths in large hospitals    bigdata  healthcareanalytics  dataanalytics,0
+great tutorial  comprehensive hands on guide to twitter sentiment analysis with dataset and code  w  py code ,1
+ i really enjoy reading the articles on your twitter page  fantastic ,4
+ai is coming on fast  here are the 10 people the ai elite follow on twitter   datascience  ai  bigdata,0
+neural network trained on twitter and instagram data to  understand  emojis   bigdata  datascience  machinelearning,5
+to the followers which i can t follow back  i will do it as soon as twitter lets me follow more people   twitter ,4
+analysis of twitter influencers in the field of data science  amp  big data by    bigdata  dataanalytics  dataviz,0
+spread a twitter message to millions with twitter api  r and sentiment analysis    datascience  r,5
+great article  an analysis of twitter influencers in the field of data science  amp  big data  by    datascience,2
+my month on twitter  530 new followers  68 mentions  144k mention reach  how s your audience growing  via ,4
+my week on twitter  72 new followers  8 mentions  2 84k mention reach  how s your audience growing  via ,4
+great advice for using twitter to enhance  researchimpact  ,5
+twitter launches new artificial intelligence group  cortex  via ,4
